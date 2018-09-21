@@ -42,7 +42,7 @@ public class zoo{
 	  void sleeping(){
 	  }
 	}
-//whs：
+// whs：
 	 class Sheep extends Animal{
 		 String name = "Ian";
 		 int age = 3;
