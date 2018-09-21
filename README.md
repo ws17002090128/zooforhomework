@@ -4,9 +4,6 @@ public class zoo{
          
          }
 }
-class Animal{
-         String name;
-}
 //SprWu:
 abstract class Animal{
 	private String name;
