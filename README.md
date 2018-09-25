@@ -52,4 +52,26 @@ public class zoo{
 			this.age = age;
 		 	}
 		}
-	
+		
+//shangluoye：
+
+        public Animal
+        {
+	string name;
+	int age;
+         void Type（）{
+	 };
+	 void Eat(){
+	 };
+         };
+	 
+	 
+	 class tiger extends Animal{
+	 String name = "Panthera tigris";
+	 int age= 25;
+	 tiger（string name,int age）{
+	    this.name=name;
+	    this.age=age;
+	    
+	 }
+	 }
