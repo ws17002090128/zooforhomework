@@ -22,6 +22,16 @@ public class zoo{
 			return this.age;
 		}
 	}
+//SprWU:
+	class Cat extends Animal{
+    	Cat(){};
+    	Cat(String name,int age){
+    		this.name = name;
+    		this.age = age;
+    	}
+    }
+
+
 // whs：
 	 class Sheep extends Animal{
 	    String name = "Ian";
