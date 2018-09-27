@@ -4,7 +4,7 @@ public class zoo{
                   
          }
 }
-//SprWu:
+
 	abstract class Animal{
 		private String name;
 		private int age;
@@ -21,24 +21,6 @@ public class zoo{
 		public int getage() {
 			return this.age;
 		}
-	}
-	class Cat extends Animal{
-		Cat(){};
-		Cat(String name,int age){
-			this.name = name;
-			this.age = age;
-		}
-	}
-// aldeliki ：
-	public class Dog exdents Animal{
-	  String name;
-	  int age;
-	  String color;
-	  void hungry(){
-	  }
-
-	  void sleeping(){
-	  }
 	}
 // whs：
 	 class Sheep extends Animal{
@@ -60,7 +42,3 @@ public class zoo{
 	    
 	 }
 	 }
-//springserver:
-	public void setDog(String dog){
-		this.dog = dog;
-}
