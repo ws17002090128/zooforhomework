@@ -42,3 +42,7 @@ public class zoo{
 	    
 	 }
 	 }
+//SpringServer
+public void setDog(String dog){
+		this.dog = dog;
+	}
