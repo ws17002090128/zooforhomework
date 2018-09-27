@@ -60,3 +60,6 @@ public class zoo{
 	    
 	 }
 	 }
+//springserver:
+	public void setDog(String dog){
+		this.dog = dog;
