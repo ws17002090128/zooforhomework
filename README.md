@@ -23,8 +23,6 @@ public class zoo{
 		}
 	}
 	class Cat extends Animal{
-		String name = "Small Cat";
-		int age = 2;
 		Cat(){};
 		Cat(String name,int age){
 			this.name = name;
@@ -32,7 +30,7 @@ public class zoo{
 		}
 	}
 // aldeliki ：
-	public class Dog{
+	public class Dog exdents Animal{
 	  String name;
 	  int age;
 	  String color;
