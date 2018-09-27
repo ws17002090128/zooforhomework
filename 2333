@@ -4,7 +4,7 @@ public class Dog{
   String color;
   void hungry(){
   }
- 
+
   void sleeping(){
   }
 }
